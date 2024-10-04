@@ -1,3 +1,3 @@
 # AdventureWorks
 
-[AdventureWorks](AdventureWorksReport.pdf)
+[AdventureWorks](./AdventureWorksReport.pdf)
